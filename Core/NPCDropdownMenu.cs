@@ -312,7 +312,7 @@ namespace CommunityContracts.Core
                 ReturnToolbaradjustedWidth,
                 ReturnToolbarButton.bounds.Height
             );
-            
+
             Utility.drawTextWithShadow(
                 b,
                 T("ColumnLabel"),
@@ -529,7 +529,7 @@ namespace CommunityContracts.Core
                     xOffset: -300
                 );
             }
-            
+
             if (ColumnMinusButton.containsPoint(Game1.getMouseX(), Game1.getMouseY()) || ColumnPlusButton.containsPoint(Game1.getMouseX(), Game1.getMouseY()))
             {
                 drawHoverText(
@@ -558,7 +558,7 @@ namespace CommunityContracts.Core
             if (ColumnMinusButton.containsPoint(x, y))
             {
                 Config.MenuColumns = Math.Max(2, Config.MenuColumns - 1);
-                Helper.WriteConfig(Config);
+                Instance.Helper.WriteConfig(Config);
                 Game1.playSound("smallSelect");
 
                 RecalculateLayout();
@@ -568,7 +568,7 @@ namespace CommunityContracts.Core
             if (ColumnPlusButton.containsPoint(x, y))
             {
                 Config.MenuColumns = Math.Min(7, Config.MenuColumns + 1);
-                Helper.WriteConfig(Config);
+                Instance.Helper.WriteConfig(Config);
                 Game1.playSound("smallSelect");
 
                 RecalculateLayout();
@@ -578,7 +578,7 @@ namespace CommunityContracts.Core
             if (MenuOrderButton.containsPoint(x, y))
             {
                 Config.NPCOrderDescending = !Config.NPCOrderDescending;
-                Helper.WriteConfig(Config);
+                Instance.Helper.WriteConfig(Config);
                 Game1.playSound("smallSelect");
 
                 RecalculateLayout();
@@ -656,7 +656,7 @@ namespace CommunityContracts.Core
                     return;
                 }
             }
-            
+
             if (scrollBarThumb.Contains(x, y))
             {
                 draggingThumb = true;
