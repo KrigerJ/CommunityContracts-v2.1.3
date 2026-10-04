@@ -9,7 +9,7 @@ Getting Started
     Launch Stardew Valley and press V to open the Community Contracts Toolbar.
     You can change the hotkey anytime from the Settings Menu on the toolbar.
     All features, services, and configuration options are accessible directly from the toolbar.
-    See the Getting Started video HERE.
+    [Getting Started Video](https://youtu.be/X-jR8DMylaM)
 
 What’s New in v2.1.3
 
