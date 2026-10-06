@@ -19,7 +19,7 @@ Esta actualización se basa en el flujo de trabajo simplificado y sin diálogos 
 * Inicia Stardew Valley y presiona V para abrir la barra de herramientas de Community Contracts.
 * Puedes cambiar la tecla rápida en cualquier momento desde el Menú de Configuración en la barra de herramientas.
 * Todas las funciones, servicios y opciones de configuración están accesibles directamente desde la barra de herramientas.
-* Video de introducción:  https://youtu.be/X-jR8DMylaM
+* [Video de introducción](https://youtu.be/X-jR8DMylaM)
 
 
 
@@ -45,7 +45,7 @@ Esta actualización se basa en el flujo de trabajo simplificado y sin diálogos 
 * El combustible de mayor valor produce ondas más devastadoras
 * La amistad con Kent aumenta el poder y el radio de la onda
 * Usa precaución: una explosión accidental de gran escala puede devastar tu granja
-* Video de Onda Expansiva:  https://youtu.be/SPUEwrf5Mbk
+* [Video de Onda Expansiva](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -61,7 +61,7 @@ Esta actualización se basa en el flujo de trabajo simplificado y sin diálogos 
 * Añade warps a niveles del Cráneo Cavern para conservar el progreso
 * Todos los warps se guardan en tu archivo de configuración y persisten entre partidas y granjas nuevas
 * Construye una red de viaje rápido adaptada a tu estilo de juego
-* Video del Servicio de Warps:  https://youtu.be/SPUEwrf5Mbk
+* [Video del Servicio de Warps](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -102,7 +102,7 @@ Esta actualización se basa en el flujo de trabajo simplificado y sin diálogos 
 * Fabricación de semillas
 * Cebo para trampas de cangrejo
 * El Cofre de Procesamiento se convierte en tu centro de materiales
-* Video del Cofre de Procesamiento:  https://youtu.be/SPUEwrf5Mbk
+* [Video del Cofre de Procesamiento](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -342,29 +342,30 @@ Ya sea que administres una pequeña granja o una operación industrial, esta act
 
 
 
-\[Introducción](https://youtu.be/X-jR8DMylaM)
+[Introducción](https://youtu.be/X-jR8DMylaM)
 
-\[Menú de Warps Personalizados](https://youtu.be/SPUEwrf5Mbk)
+[Menú de Warps Personalizados](https://youtu.be/SPUEwrf5Mbk)
 
-\[Explosión de Onda Expansiva](https://youtu.be/7X\_KHw5t8g0)
+[Explosión de Onda Expansiva](https://youtu.be/7X\_KHw5t8g0)
 
-\[Cofre de Entrega y Cofre de Procesamiento](https://youtu.be/dFRSbDsGD1g)
+[Cofre de Entrega y Cofre de Procesamiento](https://youtu.be/dFRSbDsGD1g)
 
-\[Configuración de Cobertizo a Invernadero](https://youtu.be/rdxn12mI6So)
+[Configuración de Cobertizo a Invernadero](https://youtu.be/rdxn12mI6So)
 
-\[Colocación de Trampas de Cangrejo](https://youtu.be/GI1HYpe0O9M)
+[Colocación de Trampas de Cangrejo](https://youtu.be/GI1HYpe0O9M)
 
-\[Sashimi a Pedido](https://youtu.be/5ixuPFWg3YY)
+[Sashimi a Pedido](https://youtu.be/5ixuPFWg3YY)
 
-\[Apicultura y Hidromiel](https://youtu.be/5\_QwQ6ROr34)
+[Apicultura y Hidromiel](https://youtu.be/5\_QwQ6ROr34)
 
-\[Contratar Fabricante de Semillas](https://youtu.be/0W1gcwX50LI)
+[Contratar Fabricante de Semillas](https://youtu.be/0W1gcwX50LI)
 
-\[Contratar Procesador de Minerales](https://youtu.be/sDapuxnhbWk)
+[Contratar Procesador de Minerales](https://youtu.be/sDapuxnhbWk)
 
-\[Labrar, Plantar y Regar](https://youtu.be/XM-hkmTxbnM)
+[Labrar, Plantar y Regar](https://youtu.be/XM-hkmTxbnM)
 
 
 
-\[Código fuente](https://github.com/KrigerJ/CommunityContracts-v2.1.3)
+
+[Código fuente](https://github.com/KrigerJ/CommunityContracts-v2.1.3)
 
