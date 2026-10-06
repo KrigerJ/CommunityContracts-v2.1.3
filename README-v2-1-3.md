@@ -15,7 +15,7 @@ Turn Stardew Valley into a thriving cooperative economy by partnering with towns
 * Launch Stardew Valley and press V to open the Community Contracts Toolbar.
 * You can change the hotkey anytime from the Settings Menu on the toolbar.
 * All features, services, and configuration options are accessible directly from the toolbar.
-* Getting Started Video: https://youtu.be/X-jR8DMylaM
+* [Getting Started Video](https://youtu.be/X-jR8DMylaM)
 
 
 
@@ -42,7 +42,7 @@ Turn Stardew Valley into a thriving cooperative economy by partnering with towns
   * Use higher‑value fuel to create devastating shockwaves.
   * Friendship with Kent increases shockwave power and radius
   * Use caution since an accidental large scale explosion can devastate your farm!
-  * Shockwave Bomb Video: https://youtu.be/SPUEwrf5Mbk
+  * [Shockwave Bomb Video](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -57,7 +57,7 @@ Turn Stardew Valley into a thriving cooperative economy by partnering with towns
 * Save custom warp points anywhere in the world
 * Add warp points to Skull Cavern levels to preserve progress
 * All warp locations are stored in your config file and persist across saves and new farms. Build a personal fast‑travel network tailored to your play style
-* Warp Service Video: https://youtu.be/SPUEwrf5Mbk
+* [Warp Service Video](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -98,7 +98,7 @@ Turn Stardew Valley into a thriving cooperative economy by partnering with towns
 * Seed making
 * Crab pot baiting 
 * The Processing Chest becomes your centralized hub for all raw materials
-* Processing Chest Video: https://youtu.be/SPUEwrf5Mbk
+* [Processing Chest Video](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -157,7 +157,7 @@ Turn Stardew Valley into a thriving cooperative economy by partnering with towns
 
 
 
-##### **Rock Candy Manufacturing **
+##### **Rock Candy Manufacturing**
 
 
 
@@ -335,27 +335,27 @@ Community Contracts v2.1.3 is a major expansion that introduces powerful combat 
 
 
 
-Getting Started: https://youtu.be/X-jR8DMylaM
+[Getting Started](https://youtu.be/X-jR8DMylaM)
 
-Custom Warp Menu: https://youtu.be/SPUEwrf5Mbk
+[Custom Warp Menu](https://youtu.be/SPUEwrf5Mbk)
 
-Shockwave Blast: https://youtu.be/7X\_KHw5t8g0
+[Shockwave Blast](https://youtu.be/7X\_KHw5t8g0)
 
-Delivery and Processing Chest Setup: https://youtu.be/dFRSbDsGD1g
+[Delivery and Processing Chest Setup](https://youtu.be/dFRSbDsGD1g)
 
-Shed to Greenhouse Setup: https://youtu.be/rdxn12mI6So
+[Shed to Greenhouse Setup](https://youtu.be/rdxn12mI6So)
 
-Crab Pot Setting: https://youtu.be/GI1HYpe0O9M
+[Crab Pot Setting](https://youtu.be/GI1HYpe0O9M)
 
-Sashimi Made to Order: https://youtu.be/5ixuPFWg3YY
+[Sashimi Made to Order](https://youtu.be/5ixuPFWg3YY)
 
-Honey Farming and Mead﻿: https://youtu.be/5\_QwQ6ROr34
+[Honey Farming and Mead﻿](https://youtu.be/5\_QwQ6ROr34)
 
-Hire Seed Maker: https://youtu.be/0W1gcwX50LI
+[Hire Seed Maker](https://youtu.be/0W1gcwX50LI)
 
-Hire Ore Processor: https://youtu.be/sDapuxnhbWk
+[Hire Ore Processor](https://youtu.be/sDapuxnhbWk)
 
-Till, Plant and Water: https://youtu.be/XM-hkmTxbnM
+[Till, Plant and Water](https://youtu.be/XM-hkmTxbnM)
 
 
 
@@ -387,5 +387,5 @@ Minden fejléc lefordítva (Hungarian)
 
 
 
-Source Code: https://github.com/KrigerJ/CommunityContracts-v2.1.3
+[Source Code](https://github.com/KrigerJ/CommunityContracts-v2.1.3)
 
