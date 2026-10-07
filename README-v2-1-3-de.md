@@ -95,13 +95,13 @@ Dieses Update baut auf dem optimierten, dialogfreien Arbeitsablauf von v2.1.2 au
 * Schafft Platz im Rucksack
 * Vereinfacht die Automatisierungsverwaltung
 * Unterstützt:
-* Recycling
-* Saftpressen
-* Einlegen
-* Sashimi
-* Erzverarbeitung
-* Saatgutproduktion
-* Köder für Krabbenreusen
+  * Recycling
+  * Saftpressen
+  * Einlegen
+  * Sashimi
+  * Erzverarbeitung
+  * Saatgutproduktion
+  * Köder für Krabbenreusen
 * Die Verarbeitungstruhe wird zum zentralen Lager für alle Rohmaterialien
 * [Video zur Verarbeitungstruhe](https://youtu.be/SPUEwrf5Mbk)
 
