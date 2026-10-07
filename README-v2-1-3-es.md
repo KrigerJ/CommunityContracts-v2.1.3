@@ -94,13 +94,13 @@ Esta actualización se basa en el flujo de trabajo simplificado y sin diálogos 
 * Libera espacio en la mochila
 * Simplifica la gestión de automatización
 * Compatible con:
-* Reciclaje
-* Jugo
-* Encurtidos
-* Sashimi
-* Procesamiento de minerales
-* Fabricación de semillas
-* Cebo para trampas de cangrejo
+  * Reciclaje
+  * Jugo
+  * Encurtidos
+  * Sashimi
+  * Procesamiento de minerales
+  * Fabricación de semillas
+  * Cebo para trampas de cangrejo
 * El Cofre de Procesamiento se convierte en tu centro de materiales
 * [Video del Cofre de Procesamiento](https://youtu.be/SPUEwrf5Mbk)
 
