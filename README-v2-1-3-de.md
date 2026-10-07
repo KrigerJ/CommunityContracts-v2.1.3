@@ -19,7 +19,7 @@ Dieses Update baut auf dem optimierten, dialogfreien Arbeitsablauf von v2.1.2 au
 * Starte Stardew Valley und drücke V, um die Community‑Contracts‑Symbolleiste zu öffnen.
 * Du kannst die Tastenkombination jederzeit im Einstellungsmenü der Symbolleiste ändern.
 * Alle Funktionen, Dienste und Konfigurationsoptionen sind direkt über die Symbolleiste zugänglich.
-* \[Einführungsvideo](https://youtu.be/X-jR8DMylaM)
+* [Einführungsvideo](https://youtu.be/X-jR8DMylaM)
 
 
 
@@ -46,7 +46,7 @@ Dieses Update baut auf dem optimierten, dialogfreien Arbeitsablauf von v2.1.2 au
   * Hochwertiger Treibstoff erzeugt stärkere Schockwellen
   * Freundschaft mit Kent erhöht Kraft und Radius der Schockwelle
   * Vorsicht: Eine versehentliche große Explosion kann deine Farm verwüsten
-  * \[Schockwellen‑Video](https://youtu.be/SPUEwrf5Mbk)
+  * [Schockwellen‑Video](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -61,7 +61,7 @@ Dieses Update baut auf dem optimierten, dialogfreien Arbeitsablauf von v2.1.2 au
 * Save custom warp points anywhere in the world
 * Add warp points to Skull Cavern levels to preserve progress
 * All warp locations are stored in your config file and persist across saves and new farms. Build a personal fast‑travel network tailored to your play style
-* \[Warp-Bibliothek Video](https://youtu.be/SPUEwrf5Mbk)
+* [Warp-Bibliothek Video](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -102,7 +102,7 @@ Dieses Update baut auf dem optimierten, dialogfreien Arbeitsablauf von v2.1.2 au
 * Saatgutproduktion
 * Köder für Krabbenreusen
 * Die Verarbeitungstruhe wird zum zentralen Lager für alle Rohmaterialien
-* \[Video zur Verarbeitungstruhe](https://youtu.be/SPUEwrf5Mbk)
+* [Video zur Verarbeitungstruhe](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -345,31 +345,31 @@ Ob kleine Farm oder industrielle Großanlage: Dieses Update macht die Zusammenar
 
 
 
-\[Einführung](https://youtu.be/X-jR8DMylaM)
+[Einführung](https://youtu.be/X-jR8DMylaM)
 
-\[Benutzerdefiniertes Warp‑Menü](https://youtu.be/SPUEwrf5Mbk)
+[Benutzerdefiniertes Warp‑Menü](https://youtu.be/SPUEwrf5Mbk)
 
-\[Schockwellenexplosion](https://youtu.be/7X\_KHw5t8g0)
+[Schockwellenexplosion](https://youtu.be/7X\_KHw5t8g0)
 
-\[Liefer‑ und Verarbeitungstruhe](https://youtu.be/dFRSbDsGD1g)
+[Liefer‑ und Verarbeitungstruhe](https://youtu.be/dFRSbDsGD1g)
 
-\[Schuppen‑zu‑Gewächshaus](https://youtu.be/rdxn12mI6So)
+[Schuppen‑zu‑Gewächshaus](https://youtu.be/rdxn12mI6So)
 
-\[Krabbenreuse‑Platzierung](https://youtu.be/GI1HYpe0O9M)
+[Krabbenreuse‑Platzierung](https://youtu.be/GI1HYpe0O9M)
 
-\[Sashimi auf Bestellung](https://youtu.be/5ixuPFWg3YY)
+[Sashimi auf Bestellung](https://youtu.be/5ixuPFWg3YY)
 
-\[Honigfarm \& Met](https://youtu.be/5\_QwQ6ROr34)
+[Honigfarm \& Met](https://youtu.be/5\_QwQ6ROr34)
 
-\[Saatgut‑Hersteller einstellen](https://youtu.be/0W1gcwX50LI)
+[Saatgut‑Hersteller einstellen](https://youtu.be/0W1gcwX50LI)
 
-\[Erzprozessor einstellen](https://youtu.be/sDapuxnhbWk)
+[Erzprozessor einstellen](https://youtu.be/sDapuxnhbWk)
 
-\[Pflügen, Pflanzen und Gießen](https://youtu.be/XM-hkmTxbnM)
-
-
+[Pflügen, Pflanzen und Gießen](https://youtu.be/XM-hkmTxbnM)
 
 
 
-\[Quellcode](https://github.com/KrigerJ/CommunityContracts-v2.1.3)
+
+
+[Quellcode](https://github.com/KrigerJ/CommunityContracts-v2.1.3)
 
