@@ -56,7 +56,8 @@ Turn Stardew Valley into a thriving cooperative economy by partnering with towns
 
 * Save custom warp points anywhere in the world
 * Add warp points to Skull Cavern levels to preserve progress
-* All warp locations are stored in your config file and persist across saves and new farms. Build a personal fast‑travel network tailored to your play style
+* All warp locations are stored in your config file and persist across saves and new farms
+* Build a personal fast‑travel network tailored to your play style
 * [Warp Service Video](https://youtu.be/SPUEwrf5Mbk)
 
 
