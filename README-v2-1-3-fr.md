@@ -19,7 +19,7 @@ Cette mise à jour s’appuie sur le flux de travail simplifié et sans dialogue
 * Lancez Stardew Valley et appuyez sur V pour ouvrir la barre d’outils Community Contracts.
 * Vous pouvez modifier le raccourci clavier à tout moment dans le Menu des paramètres de la barre d’outils.
 * Toutes les fonctionnalités, services et options de configuration sont accessibles directement depuis la barre d’outils.
-* \[Vidéo d’introduction ](https://youtu.be/X-jR8DMylaM)
+* [Vidéo d’introduction ](https://youtu.be/X-jR8DMylaM)
 
 
 
@@ -46,7 +46,7 @@ Cette mise à jour s’appuie sur le flux de travail simplifié et sans dialogue
   * Un carburant de grande valeur produit des ondes plus puissantes
   * L’amitié avec Kent augmente la puissance et le rayon de l’onde
   * Attention : une explosion accidentelle de grande ampleur peut dévaster votre ferme
-* \[Vidéo Onde de choc ](https://youtu.be/SPUEwrf5Mbk)
+* [Vidéo Onde de choc ](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -62,7 +62,7 @@ Cette mise à jour s’appuie sur le flux de travail simplifié et sans dialogue
 * Ajoutez des warps aux niveaux du Crâne Cavern pour conserver votre progression
 * Tous les warps sont enregistrés dans votre fichier de configuration et persistent entre les sauvegardes et les nouvelles fermes
 * Construisez un réseau de voyage rapide adapté à votre style de jeu
-* \[Vidéo du service de warp](https://youtu.be/SPUEwrf5Mbk)
+* [Vidéo du service de warp](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -104,7 +104,7 @@ Cette mise à jour s’appuie sur le flux de travail simplifié et sans dialogue
   * Fabrication de graines
   * Appâts pour casiers à crabes
   * Le Coffre de traitement devient votre centre de gestion des matières premières
-* \[Vidéo du Coffre de traitement](https://youtu.be/SPUEwrf5Mbk)
+* [Vidéo du Coffre de traitement](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -345,33 +345,33 @@ Que vous gériez une petite ferme ou une exploitation industrielle, cette mise �
 
 
 
-\[Introduction](https://youtu.be/X-jR8DMylaM)
+[Introduction](https://youtu.be/X-jR8DMylaM)
 
-\[Menu de warp personnalisé](https://youtu.be/SPUEwrf5Mbk)
+[Menu de warp personnalisé](https://youtu.be/SPUEwrf5Mbk)
 
-\[Explosion d’onde de choc](https://youtu.be/7X\_KHw5t8g0)
+[Explosion d’onde de choc](https://youtu.be/7X\_KHw5t8g0)
 
-\[Coffre de livraison et de traitement](https://youtu.be/dFRSbDsGD1g)
+[Coffre de livraison et de traitement](https://youtu.be/dFRSbDsGD1g)
 
-\[Configuration hangar → serre](https://youtu.be/rdxn12mI6So)
+[Configuration hangar → serre](https://youtu.be/rdxn12mI6So)
 
-\[Placement des casiers à crabes](https://youtu.be/GI1HYpe0O9M)
+[Placement des casiers à crabes](https://youtu.be/GI1HYpe0O9M)
 
-\[Sashimi sur commande](https://youtu.be/5ixuPFWg3YY)
+[Sashimi sur commande](https://youtu.be/5ixuPFWg3YY)
 
-\[Apiculture et hydromel](https://youtu.be/5\_QwQ6ROr34)
+[Apiculture et hydromel](https://youtu.be/5\_QwQ6ROr34)
 
-\[Engager un fabricant de graines](https://youtu.be/0W1gcwX50LI)
+[Engager un fabricant de graines](https://youtu.be/0W1gcwX50LI)
 
-\[Engager un processeur de minerais](https://youtu.be/sDapuxnhbWk)
+[Engager un processeur de minerais](https://youtu.be/sDapuxnhbWk)
 
-\[Labour, plantation et arrosage](https://youtu.be/XM-hkmTxbnM)
-
-
+[Labour, plantation et arrosage](https://youtu.be/XM-hkmTxbnM)
 
 
 
-\[Code source](https://github.com/KrigerJ/CommunityContracts-v2.1.3)
+
+
+[Code source](https://github.com/KrigerJ/CommunityContracts-v2.1.3)
 
 
 
