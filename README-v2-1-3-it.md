@@ -19,7 +19,7 @@ Questo aggiornamento si basa sul flusso di lavoro semplificato e senza dialoghi 
 * Avvia Stardew Valley e premi V per aprire la barra degli strumenti di Community Contracts.
 * Puoi modificare il tasto rapido in qualsiasi momento dal Menu Impostazioni nella barra degli strumenti.
 * Tutte le funzioni, i servizi e le opzioni di configurazione sono accessibili direttamente dalla barra degli strumenti.
-* \[Video introduttivo](https://youtu.be/X-jR8DMylaM)
+* [Video introduttivo](https://youtu.be/X-jR8DMylaM)
 
 
 
@@ -46,7 +46,7 @@ Questo aggiornamento si basa sul flusso di lavoro semplificato e senza dialoghi 
   * Carburante di valore più alto produce onde più devastanti
   * L’amicizia con Kent aumenta potenza e raggio dell’onda
   * Attenzione: un’esplosione accidentale di grande portata può devastare la tua fattoria
-* \[Video Onda d’Urto](https://youtu.be/SPUEwrf5Mbk)
+* [Video Onda d’Urto](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -62,7 +62,7 @@ Questo aggiornamento si basa sul flusso di lavoro semplificato e senza dialoghi 
 * Aggiungi warp ai livelli del Teschio Cavern per conservare i progressi
 * Tutti i warp vengono salvati nel file di configurazione e persistono tra salvataggi e nuove fattorie
 * Costruisci una rete di viaggio rapido su misura per il tuo stile di gioco
-* \[Video del Servizio Warp](https://youtu.be/SPUEwrf5Mbk)
+* [Video del Servizio Warp](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -104,7 +104,7 @@ Questo aggiornamento si basa sul flusso di lavoro semplificato e senza dialoghi 
   * Produzione di semi
   * Esche per nasse da granchi
 * Il Baule di Lavorazione diventa il tuo centro di gestione delle materie prime
-* \[Video Baule di Lavorazione](https://youtu.be/SPUEwrf5Mbk)
+* [Video Baule di Lavorazione](https://youtu.be/SPUEwrf5Mbk)
 
 
 
@@ -346,31 +346,31 @@ Che tu gestisca una piccola fattoria o un’operazione industriale, questo aggio
 
 
 
-\[Introduzione](https://youtu.be/X-jR8DMylaM)
+[Introduzione](https://youtu.be/X-jR8DMylaM)
 
-\[Menu Warp Personalizzato](https://youtu.be/SPUEwrf5Mbk)
+[Menu Warp Personalizzato](https://youtu.be/SPUEwrf5Mbk)
 
-\[Esplosione Onda d’Urto](https://youtu.be/7X\_KHw5t8g0)
+[Esplosione Onda d’Urto](https://youtu.be/7X\_KHw5t8g0)
 
-\[Baule di Consegna e Lavorazione](https://youtu.be/dFRSbDsGD1g)
+[Baule di Consegna e Lavorazione](https://youtu.be/dFRSbDsGD1g)
 
-\[Impostazione Capanno → Serra](https://youtu.be/rdxn12mI6So)
+[Impostazione Capanno → Serra](https://youtu.be/rdxn12mI6So)
 
-\[Posizionamento Nasse da Granchi](https://youtu.be/GI1HYpe0O9M)
+[Posizionamento Nasse da Granchi](https://youtu.be/GI1HYpe0O9M)
 
-\[Sashimi su Richiesta](https://youtu.be/5ixuPFWg3YY)
+[Sashimi su Richiesta](https://youtu.be/5ixuPFWg3YY)
 
-\[Apicoltura e Idromele﻿](https://youtu.be/5\_QwQ6ROr34)
+[Apicoltura e Idromele﻿](https://youtu.be/5\_QwQ6ROr34)
 
-\[Assumi Produttore di Semi](https://youtu.be/0W1gcwX50LI)
+[Assumi Produttore di Semi](https://youtu.be/0W1gcwX50LI)
 
-\[Assumi Processore di Minerali](https://youtu.be/sDapuxnhbWk)
+[Assumi Processore di Minerali](https://youtu.be/sDapuxnhbWk)
 
-\[Zappare, Piantare e Irrigare](https://youtu.be/XM-hkmTxbnM)
-
-
+[Zappare, Piantare e Irrigare](https://youtu.be/XM-hkmTxbnM)
 
 
 
-\[Codice Sorgente](https://github.com/KrigerJ/CommunityContracts-v2.1.3)
+
+
+[Codice Sorgente](https://github.com/KrigerJ/CommunityContracts-v2.1.3)
 
