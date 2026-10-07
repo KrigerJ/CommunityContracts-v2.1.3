@@ -58,9 +58,10 @@ Dieses Update baut auf dem optimierten, dialogfreien Arbeitsablauf von v2.1.2 au
 
 
 
-* Save custom warp points anywhere in the world
-* Add warp points to Skull Cavern levels to preserve progress
-* All warp locations are stored in your config file and persist across saves and new farms. Build a personal fast‑travel network tailored to your play style
+* Speichere Warp‑Punkte überall in der Welt
+* Füge Warp‑Punkte zu Schädelhöhlen‑Ebenen hinzu, um Fortschritt zu sichern
+* Alle Warp‑Punkte werden in deiner Konfigurationsdatei gespeichert und bleiben über Spielstände und neue Farmen hinweg erhalten
+* Baue ein persönliches Schnellreisesystem, das zu deinem Spielstil passt
 * [Warp-Bibliothek Video](https://youtu.be/SPUEwrf5Mbk)
 
 
