@@ -91,13 +91,13 @@ Turn Stardew Valley into a thriving cooperative economy by partnering with towns
 * Frees up backpack space
 * Simplifies automation management
 * Supports:
-* Recycling
-* Juicing
-* Pickling
-* Sashimi
-* Ore processing
-* Seed making
-* Crab pot baiting 
+  * Recycling
+  * Juicing
+  * Pickling
+  * Sashimi
+  * Ore processing
+  * Seed making
+  * Crab pot baiting 
 * The Processing Chest becomes your centralized hub for all raw materials
 * [Processing Chest Video](https://youtu.be/SPUEwrf5Mbk)
 
